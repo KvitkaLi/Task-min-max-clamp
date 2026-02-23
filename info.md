@@ -12,6 +12,7 @@ ________________________________________
 •	Адаптивність реалізувати через min() та clamp()  
 ________________________________________  
 📁 Вихідна HTML-структура (задано)  
+https://github.com/KvitkaLi/Task-min-max-clamp/blob/main/index.html  
 <body>  
   <div class="container">  
     <h1>Адаптивна верстка</h1>  
