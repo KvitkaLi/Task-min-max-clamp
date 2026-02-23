@@ -13,17 +13,7 @@ ________________________________________
 ________________________________________  
 📁 Вихідна HTML-структура (задано)  
 https://github.com/KvitkaLi/Task-min-max-clamp/blob/main/index.html  
-<body>  
-  <div class="container">  
-    <h1>Адаптивна верстка</h1>  
-    <section class="cards">  
-      <div class="card">Картка 1</div>  
-      <div class="card">Картка 2</div>  
-      <div class="card">Картка 3</div>  
-    </section>  
-  </div>  
-</body>  
-
+Адаптивна верстка  
 ### Завдання  
 1️⃣  Контейнер - min()  
 Реалізуйте контейнер так, щоб:  
